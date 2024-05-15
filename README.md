@@ -13,8 +13,7 @@ UDFS is a sophisticated machine learning model developed on Jupyter Notebooks, e
 ## Getting Started 🚀
 
 1. Clone the repository.
-2. Install required dependencies using `pip install -r requirements.txt`.
-3. Open the Jupyter Notebook and start exploring the data.
+2. Open the Jupyter Notebook and start exploring the data.
 
 ## Contributions 🤝
 
